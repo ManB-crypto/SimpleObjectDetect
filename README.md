@@ -19,3 +19,6 @@ Simpler version of Object Detection
 * if confidence > 0.5: " the confidence level"
 ### Example
 ![image](https://user-images.githubusercontent.com/80488842/152525672-e23b5a6b-5dcc-4b03-9aa7-e2223d483ca2.png)
+
+# Credits
+* eMaster Class Academy "Video link :https://www.youtube.com/watch?v=1LCb1PVqzeY&t=301s"
