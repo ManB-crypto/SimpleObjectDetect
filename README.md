@@ -5,6 +5,12 @@ Simpler version of Object Detection
 * yolov3.cfg " is a algorithm that identifies specific objects in videos in real time"
 * yolov3.weights (*have to download urself*) " it is the weights of the binary file"
 
+### Features
+* Uses OpenCV and NumPY libary.
+* Able to identfy 80 objects with high accuracy.
+* YOLOv3 has the advantages of detection speed and accuracy.
+* Easy to learn and implement.
+
 ### Customizable
 * capture = cv2.VideoCapture('') "the video can be change to the name of the video *video.mp4* or neumerical for USB webcam."
 * cv2.FONT_HERSHEY_PLAIN "the font type can be change to others type to be more suitable"
